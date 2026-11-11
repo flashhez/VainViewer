@@ -1,0 +1,30 @@
+VainViewer
+Copyright (c) 2026 VAIN. All rights reserved.
+
+1. Use. VainViewer is freeware. You may download it and use it on any number of computers, for
+   personal or commercial purposes, free of charge.
+
+2. Where to get it. VainViewer is distributed only through its official page,
+   https://github.com/flashhez/VainViewer. To share it, link to that page rather than passing on
+   the file itself. Hosting, mirroring or bundling VainViewer.exe elsewhere needs written
+   permission from VAIN.
+
+3. What you may not do. You may not sell VainViewer, modify it, or decompile, disassemble or
+   otherwise reverse engineer it, except where the law expressly allows this despite this
+   limitation.
+
+4. Screenshots and results. You may freely publish screenshots of VainViewer and the values it
+   shows, for example in forum posts, reviews, guides and overclocking results.
+
+5. Names. "VainViewer", "VAIN" and "VAIN.ZONE" may not be used as or in the name of any other
+   software, modified copy or download, and may not be used in a way that suggests VAIN made or
+   endorses something it didn't.
+
+6. No warranty. VainViewer reads hardware registers and installs the PawnIO driver. It is
+   provided "as is", without warranty of any kind, express or implied, including fitness for a
+   particular purpose. In no event shall the authors be liable for any damage or loss arising
+   from its use, including damage to hardware or loss of data.
+
+7. Third-party software. The third-party software included in VainViewer is not covered by this
+   licence. Each part keeps its own licence, listed with its source in THIRD-PARTY-NOTICES.txt;
+   nothing here limits the rights those licences give you.
